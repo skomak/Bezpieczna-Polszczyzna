@@ -13,13 +13,13 @@
 |design|projekt|design|
 |draft|szkic, wersja robocza|draft|
 |driver|sterownik|driver|
-|firewall|zapora|firewall|
+|firewall|zapora|fajerłol|
 |fix|poprawka|fix|
 |form|formularz|formatka|
 |horizontal privilege escalation|rozszerzenie uprawnień|horyzontalna eskalacja uprawnień|
 |hotfix|pilna poprawka|hotfix|
 |injection|wstrzyknięcie|iniekcja|
-|layout|układ|layout|
+|layout|układ|lejałt|
 |notification|powiadomienie|notyfikacja|
 |permission|(po)zezwolenie|permisja|
 |research|badania|risercz|
@@ -35,7 +35,7 @@
 |custom|nietypowy, niestandardowy|kastomowy|
 |default|domyślny|difoltowy|
 |focus|skupić|sfokusować|
-|follow/er|obserwuję/ator|follow/er|
+|follow/er|obserwuję/ator|foloł/er|
 |image|wizerunek|imidż|
 |internal|wewnętrzny|internalowy|
 |invalidate|unieważnić|zinwalidować|
