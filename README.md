@@ -35,7 +35,7 @@
 |custom|nietypowy, niestandardowy|kastomowy|
 |default|domyślny|difoltowy|
 |focus|skupić|sfokusować|
-|follow/er|obserwuję/ator|foloł/er|
+|follow/er|obserwuj/ator|foloł/er|
 |image|wizerunek|imidż|
 |internal|wewnętrzny|internalowy|
 |invalidate|unieważnić|zinwalidować|
