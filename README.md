@@ -6,7 +6,7 @@
 |credentials|poświadczenia|kredenszjale|
 |decryption|odszyfrowanie|dekrypcja|
 |defense in-depth|obrona wielopoziomowa|obrona dogłębna|
-|firewal|zapora|fajerłol|
+|firewal|zapora|firewall|
 |horizontal privilege escalation|rozszerzenie uprawnień|horyzontalna eskalacja uprawnień|
 |injection|wstrzyknięcie|iniekcja|
 |invalidate|unieważnić|zinwalidować|
