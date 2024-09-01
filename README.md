@@ -13,7 +13,7 @@
 |design|projekt|design|
 |draft|szkic, wersja robocza|draft|
 |driver|sterownik|driver|
-|firewal|zapora|firewall|
+|firewall|zapora|firewall|
 |fix|poprawka|fix|
 |form|formularz|formatka|
 |horizontal privilege escalation|rozszerzenie uprawnień|horyzontalna eskalacja uprawnień|
@@ -29,6 +29,7 @@
 |-|-|-|
 |agile|zwinne|adżajlowe|
 |collaborate|współpracować|kolaborować|
+|conclusion|wnioski|konkluzja|
 |consistent|spójny|konsystentny|
 |core|główny, zasadniczy|korowy|
 |custom|nietypowy, niestandardowy|kastomowy|
