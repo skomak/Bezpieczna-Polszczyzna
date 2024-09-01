@@ -34,7 +34,7 @@
 |core|główny, zasadniczy|korowy|
 |custom|nietypowy, niestandardowy|kastomowy|
 |default|domyślny|difoltowy|
-|focus|skupić|sfocusować|
+|focus|skupić|sfokusować|
 |follow/er|obserwuję/ator|follow/er|
 |image|wizerunek|imidż|
 |internal|wewnętrzny|internalowy|
