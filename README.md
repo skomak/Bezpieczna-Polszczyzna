@@ -6,6 +6,7 @@
 |credentials|poświadczenia|kredenszjale|
 |decryption|odszyfrowanie|dekrypcja|
 |defense in-depth|obrona wielopoziomowa|obrona dogłębna|
+|driver|sterownik|driver|
 |firewal|zapora|firewall|
 |horizontal privilege escalation|rozszerzenie uprawnień|horyzontalna eskalacja uprawnień|
 |injection|wstrzyknięcie|iniekcja|
