@@ -1,4 +1,4 @@
-# Bezpieczna-Polszczyzna
+# Bezpieczna Polszczyzna
 ## Słownik polskiego w IT wraz z anglicyzmami
 |angielski|polski|anglicyzm|
 |-|-|-|
