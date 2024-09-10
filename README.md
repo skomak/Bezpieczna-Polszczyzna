@@ -44,4 +44,4 @@
 |solution|rozwiązanie|solucja|
 |scroll|przewiń|przeskroluj|
 |random|losowy|randomowy|
-|team|zespół|team|
+|team|zespół|tim|
