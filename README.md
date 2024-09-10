@@ -27,7 +27,7 @@
 ## Słownik polskiego dla korpomówców, pongliszerów, anglohipsterów
 |angielski|polski|anglicyzm|
 |-|-|-|
-|agile|zwinne|adżajlowe|
+|agile|zwinne|edżajlowe|
 |collaborate|współpracować|kolaborować|
 |conclusion|wnioski|konkluzja|
 |consistent|spójny|konsystentny|
