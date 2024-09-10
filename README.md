@@ -36,7 +36,7 @@
 |default|domyślny|difoltowy|
 |focus|skupić|sfokusować|
 |follow/er|obserwuj/ator|foloł/er|
-|image|wizerunek|imidż|
+|image|wizerunek|imicz|
 |internal|wewnętrzny|internalowy|
 |invalidate|unieważnić|zinwalidować|
 |muted|wyciszony|zmutowany|
