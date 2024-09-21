@@ -5,6 +5,8 @@
 |agile|zwinne|agile-owe|
 |authentication|uwierzytelnianie|autentykacja|
 |backup|kopie|backup-y|
+|behavioral|zachowawcza|behawioralna|
+|benefit|korzyść|benefit|
 |branch|gałąź, oddział||
 |bug|dziura, luka, błąd|bug|
 |bypass|obejście|bypass|
@@ -66,7 +68,8 @@
 |fork|rozwidlenie|fork|
 |form|formularz|formatka|
 |grab|(u)chwycić, złapać|grabnąć|
-|handle|obsługa, obsługiwać (wyjątek)||
+|handle|obsługiwać (wyjątek)||
+|hardware token|klucz sprzętowy|token sprzętowy|
 |header|nagłówek||
 |horizontal privilege escalation|rozszerzenie uprawnień|horyzontalna eskalacja uprawnień|
 |hotfix|pilna poprawka|hotfix|
@@ -84,12 +87,14 @@
 |member|członek||
 |memory leak|wyciek pamięci||
 |milestone|kamień milowy||
+|mindset|nastawienie||
 |mockup|makieta||
 |muted|wyciszony|z-mute-owany|
 |node|węzeł||
 |notification|powiadomienie|notyfikacja|
 |on-site|na miejscu||
 |on-prem|lokalnie||
+|obligatory|obowiązkowy|obligatoryjny|
 |online|w sieci||
 |offline|poza siecią||
 |package|pakiet||
@@ -105,12 +110,7 @@
 |research|badania|research|
 |sample|próbka||
 |save|zapisać|za-save-ować|
-|task|zadanie|task|
-|theme|motyw||
-|timestamp|znacznik czasu||
 |to schedule|zaplanować||
-|threshold|próg||
-|typo|literówka||
 |scope|zakres|scope|
 |screenshot|zrzut (ekranu)|screenshot|
 |scroll|przewiń|przeskroluj|
@@ -124,9 +124,16 @@
 |switch|przełącznik|switch|
 |tag|znacznik|tag|
 |target|cel|target|
+|task|zadanie|task|
 |team|zespół|team|
+|theme|motyw||
+|threshold|próg||
+|timestamp|znacznik czasu||
+|timing|wyczucie (czasu)|timing|
+|tokenization|znakowanie|tokenizacja|
 |trailer|zwiastun|trailer|
 |to trigger|uruchomić|trigerować|
+|typo|literówka||
 |validation|walidacja||
 |vendor|dostawca||
 |vertical privilege escalation|podniesienie uprawnień|wertykalna eskalacja uprawnień|
