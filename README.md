@@ -67,6 +67,7 @@
 |footer|stopka||
 |fork|rozwidlenie|fork|
 |form|formularz|formatka|
+|framework|platforma (programistyczna)|framework|
 |grab|(u)chwycić, złapać|grabnąć|
 |handle|obsługiwać (wyjątek)||
 |hardware token|klucz sprzętowy|token sprzętowy|
