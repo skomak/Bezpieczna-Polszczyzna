@@ -5,12 +5,14 @@
 |agile|zwinne|agile-owe|
 |authentication|uwierzytelnianie|autentykacja|
 |backup|kopie|backup-y|
+|branch|gałąź, oddział||
 |bug|dziura, luka, błąd|bug|
 |bypass|obejście|bypass|
 |cancel|anuluj|cancel-uj|
 |cast|rzutować|cast-ować|
 |checksum|suma kontrolna|checksum-a|
 |collaborate|współpracować|kolaborować|
+|community|społeczność, wspólnota||
 |conclusion|wnioski|konkluzja|
 |connect|łączyć, połączyć|connect-ować|
 |consistent|spójny|konsystentny|
@@ -38,8 +40,13 @@
 |digitalization|cyfryzacja|dygitalizacja|
 |disable|wyłączyć||
 |disconnect|rozłączyć, odłączyć||
+|dismiss|odrzucać, odwołać||
+|distribute|rozprowadzać|dystrybucja|
 |draft|szkic, wersja robocza|draft|
 |driver|sterownik|driver|
+|donate|podarować||
+|donation|darowizna|donacja|
+|download|ściągnij||
 |enable|włączyć||
 |encode|zakodować|enkodować|
 |encoding|kodowanie (np. znaków)|enkoding|
@@ -48,6 +55,7 @@
 |example|przykład||
 |exception|wyjątek|exception|
 |exfiltration|wyprowadzenie|eksfiltracja|
+|fetch|pobierz||
 |firewall|zapora|firewall|
 |fix|poprawka|fix|
 |focus|skupić|s-focus-ować|
@@ -68,6 +76,7 @@
 |issue|sprawa, kwestia|issue|
 |label|etykieta|labelka|
 |layout|układ|layout|
+|live|na żywo|live|
 |load|wczytać, załadować||
 |member|członek||
 |memory leak|wyciek pamięci||
@@ -76,8 +85,10 @@
 |muted|wyciszony|z-mute-owany|
 |node|węzeł||
 |notification|powiadomienie|notyfikacja|
+|package|pakiet||
 |parallel|równoległy||
 |permission|(po)zezwolenie|permisja|
+|pipeline|potok||
 |portable|przenośny||
 |preview|podgląd||
 |progress|postęp|progres|
@@ -101,10 +112,12 @@
 |support|wsparcie|support|
 |syntax|składnia||
 |switch|przełącznik|switch|
+|tag|znacznik|tag|
 |target|cel|target|
 |team|zespół|team|
 |trailer|zwiastun|trailer|
 |to trigger|uruchomić|trigerować|
+|validation|walidacja||
 |vertical privilege escalation|podniesienie uprawnień|wertykalna eskalacja uprawnień|
 |vulnerability|podatność||
 |watch|obserwuj||
