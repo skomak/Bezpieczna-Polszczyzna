@@ -10,6 +10,7 @@
 |bypass|obejście|bypass|
 |cancel|anuluj|cancel-uj|
 |cast|rzutować|cast-ować|
+|casting|rzutowanie||
 |checksum|suma kontrolna|checksum-a|
 |collaborate|współpracować|kolaborować|
 |community|społeczność, wspólnota||
