@@ -2,66 +2,73 @@
 ## Słownik polskiego dla IT, korpomówców, pongliszerów, anglohipsterów
 |angielski|polski|anglicyzm|
 |-|-|-|
-|agile|zwinne|edżajlowe|
+|agile|zwinne|agile-owe|
 |authentication|uwierzytelnianie|autentykacja|
-|bug|dziura, luka, błąd|bag|
-|bypass|obejście|bajpas|
-|cast|rzutować|kastować|
-|checksum|suma kontrolna|czeksuma|
+|bug|dziura, luka, błąd|bug|
+|bypass|obejście|bypass|
+|cancel|anuluj|cancel-uj|
+|cast|rzutować|cast-ować|
+|checksum|suma kontrolna|checksum-a|
 |collaborate|współpracować|kolaborować|
 |conclusion|wnioski|konkluzja|
 |consistent|spójny|konsystentny|
 |content|treść|kontent|
-|core|główny, zasadniczy|korowy|
-|credentials|poświadczenia|kredenszjale|
-|custom|nietypowy, niestandardowy|kastomowy|
+|core|główny, zasadniczy|core-owy|
+|credentials|poświadczenia|credential-e|
+|custom|nietypowy, niestandardowy|customo-wy|
 |cybersecurity|cyberbezpieczeństwo||
 |decode|odkodować, rozszyfrować|dekodować|
 |decryption|odszyfrowanie|dekrypcja|
-|default|domyślny|difoltowy|
+|default|domyślny|default-owy|
 |defense in-depth|obrona wielopoziomowa|obrona dogłębna|
 |defensive|obronne (działania, bezpieczeństwo)|defensywne|
+|delay|opóźnienie||
 |dependency|zależność|dependencja|
-|deploy|wdrożyć|zdiplojować|
-|design|projekt|dizajn|
+|deploy|wdrożyć|z-deploy-ować|
+|deprecated|przestarzały||
+|design|projekt|design|
 |detection|wykrywanie|detekcja|
+|developer|programista|deweloper|
 |digital|cyfrowy|dygitalny|
 |digitalization|cyfryzacja|dygitalizacja|
+|disable|wyłączyć||
 |draft|szkic, wersja robocza|draft|
-|driver|sterownik|drajwer|
+|driver|sterownik|driver|
+|enable|włączyć||
 |encode|zakodować|enkodować|
 |encoding|kodowanie (np. znaków)|enkoding|
 |encryption|szyfrowanie|enkrypcja|
-|event|zdarzenie|iwent|
+|event|zdarzenie|event|
+|exception|wyjątek|exception|
 |exfiltration|wyprowadzenie|eksfiltracja|
-|firewall|zapora|fajerłol|
+|firewall|zapora|firewall|
 |fix|poprawka|fix|
-|focus|skupić|sfokusować|
-|follow/er|obserwuj/ator|foloł/er|
+|focus|skupić|s-focus-ować|
+|follow/er|obserwuj/ator|follow/er|
 |form|formularz|formatka|
 |horizontal privilege escalation|rozszerzenie uprawnień|horyzontalna eskalacja uprawnień|
 |hotfix|pilna poprawka|hotfix|
-|image|wizerunek|imicz|
+|image|wizerunek|image|
 |injection|wstrzyknięcie|iniekcja|
 |internal|wewnętrzny|internalowy|
 |invalidate|unieważnić|zinwalidować|
-|layout|układ|lejałt|
-|muted|wyciszony|zmutowany|
+|layout|układ|layout|
+|muted|wyciszony|z-mute-owany|
 |notification|powiadomienie|notyfikacja|
 |permission|(po)zezwolenie|permisja|
 |progress|postęp|progres|
-|proof of concept|dowód, prototyp|pruf of koncept, pok|
+|proof of concept|dowód, prototyp|proof of concept, poc|
 |random|losowy|randomowy|
-|research|badania|risercz|
-|scope|zakres|skołp|
+|research|badania|research|
+|scope|zakres|scope|
 |scroll|przewiń|przeskroluj|
 |sensor|czujnik|sensor|
-|side-channel attack|atak boczny|sajd czanel atak|
+|side-channel attack|atak boczny||
 |solution|rozwiązanie|solucja|
-|switch|przełącznik|słicz|
+|switch|przełącznik|switch|
 |target|cel|target|
-|team|zespół|tim|
+|team|zespół|team|
 |to trigger|uruchomić|trigerować|
 |vertical privilege escalation|podniesienie uprawnień|wertykalna eskalacja uprawnień|
-|vulnerability|podatność|wulnerabiliti|
+|vulnerability|podatność||
 |weakness|słabość||
