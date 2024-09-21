@@ -16,6 +16,7 @@
 |community|społeczność, wspólnota||
 |conclusion|wnioski|konkluzja|
 |connect|łączyć, połączyć|connect-ować|
+|connection|połączenie||
 |consistent|spójny|konsystentny|
 |content|treść|kontent|
 |contribute|współtwórz||
@@ -64,6 +65,7 @@
 |footer|stopka||
 |fork|rozwidlenie|fork|
 |form|formularz|formatka|
+|grab|(u)chwycić, złapać|grabnąć|
 |handle|obsługa, obsługiwać (wyjątek)||
 |header|nagłówek||
 |horizontal privilege escalation|rozszerzenie uprawnień|horyzontalna eskalacja uprawnień|
@@ -86,6 +88,10 @@
 |muted|wyciszony|z-mute-owany|
 |node|węzeł||
 |notification|powiadomienie|notyfikacja|
+|on-site|na miejscu||
+|on-prem|lokalnie||
+|online|w sieci||
+|offline|poza siecią||
 |package|pakiet||
 |parallel|równoległy||
 |permission|(po)zezwolenie|permisja|
@@ -94,12 +100,14 @@
 |preview|podgląd||
 |progress|postęp|progres|
 |proof of concept|dowód, prototyp|proof of concept, poc|
+|provider|dostawca, usługodawca||
 |random|losowy|randomowy|
 |research|badania|research|
 |sample|próbka||
 |save|zapisać|za-save-ować|
 |task|zadanie|task|
 |theme|motyw||
+|timestamp|znacznik czasu||
 |to schedule|zaplanować||
 |threshold|próg||
 |typo|literówka||
@@ -109,6 +117,7 @@
 |sensor|czujnik|sensor|
 |settings|ustawienia|settings-y|
 |side-channel attack|atak boczny||
+|social media|społecznościówki||
 |solution|rozwiązanie|solucja|
 |support|wsparcie|support|
 |syntax|składnia||
@@ -119,6 +128,7 @@
 |trailer|zwiastun|trailer|
 |to trigger|uruchomić|trigerować|
 |validation|walidacja||
+|vendor|dostawca||
 |vertical privilege escalation|podniesienie uprawnień|wertykalna eskalacja uprawnień|
 |vulnerability|podatność||
 |watch|obserwuj||
