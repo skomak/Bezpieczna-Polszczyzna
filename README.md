@@ -3,10 +3,10 @@
 |angielski|polski|anglicyzm|
 |-|-|-|
 |authentication|uwierzytelnianie|autentykacja|
-|bug|dziura, luka, błąd||
+|bug|dziura, luka, błąd|bag|
 |bypass|obejście|bajpas|
 |cast|rzutować|kastować|
-|checksum|suma kontrolna||
+|checksum|suma kontrolna|czeksuma|
 |content|treść|kontent|
 |credentials|poświadczenia|kredenszjale|
 |cybersecurity|cyberbezpieczeństwo||
