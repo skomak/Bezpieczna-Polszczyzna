@@ -1,4 +1,9 @@
 # Bezpieczna Polszczyzna
+Głównym celem tego projektu jest krzewienie świadomego i poprawnego posługiwania się językiem polskim poprzez przedstawienie rodzimych określeń dla anglicyzmów, w trosce o zachowanie kultury i tożsamości językowej. Skupiam się tu głównie na świecie cyberbezpieczeństwa i IT, ale też korporacyjnym, gdzie ludzie zatracają się w korpomowie, anglicyzmach i anglohipsterii.
+
+Poniższa tabela pokazuje jak często używamy słów zapożyczonych, kaleczymy język, robimy z niego karykaturę, podczas gdy mamy doskonałe własne określenia, często wygodniejsze i bliższe.
+
+"Możemy nosić chińskie ciuchy, jeździć czeskimi autami, patrzeć w japońskie telewizory, gotować w niemieckich garnkach hiszpańskie pomidory i norweskie łososie. Co do kultury, to jednak wypadałoby mieć własną" - Andrzej Sapkowski, Historia i fantastyka
 ## Słownik polskiego dla IT, korpomówców, pongliszerów, anglohipsterów
 |angielski|polski|anglicyzm|
 |-|-|-|
