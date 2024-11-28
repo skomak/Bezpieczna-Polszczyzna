@@ -142,7 +142,7 @@ Poniższa tabela pokazuje jak często używamy słów zapożyczonych, kaleczymy 
 |scroll|przewiń|przeskroluj|
 |sensor|czujnik|sensor|
 |settings|ustawienia|settings-y|
-|side-channel attack|atak boczny/bocznokanałowy||
+|side-channel attack|atak boczny, bocznokanałowy||
 |social media|społecznościówki||
 |solution|rozwiązanie|solucja|
 |support|wsparcie|support|
